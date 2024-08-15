@@ -15,3 +15,5 @@
 * 查查發音(服務已停用，Github)： https://github.com/goodness090807/ChachaPronounce
 
 * 使用.NET 8 + Docker環境開發的電商API (開發中，Github)： https://github.com/goodness090807/e-commerce
+    * 使用者授權已完成
+    * Product設計中
